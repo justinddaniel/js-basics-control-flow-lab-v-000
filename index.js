@@ -1,11 +1,11 @@
 // Write your code in this file!
 
-function scuberGreetingForFeet (distance) {
-  if (distance <= 400) {
+function scuberGreetingForFeet (feet) {
+  if (feet <= 400) {
     return 'This one is on me!';
-  } else if (distance > 2000 && distance <= 2500) {
+  } else if (feet > 2000 && feet <= 2500) {
     return 'I will gladly take your third bucks.';
-  } else if (distance > 2500) {
+  } else if (feet > 2500) {
     return = 'No can do.';
   }
 }
