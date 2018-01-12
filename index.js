@@ -1,5 +1,7 @@
 // Write your code in this file!
-let scuberGreetingForFeet(distance)
+let distance
+
+let scuberGreetingForFeet()
 
 if (distance <= 400) {
   scuberGreetingForFeet = 'This one is on me!'
@@ -8,4 +10,3 @@ if (distance <= 400) {
 } else if (distance > 2500) {
   scuberGreetingForFeet = 'No can do.'
 }
-
