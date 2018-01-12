@@ -3,7 +3,7 @@ let distance
 
 function scuberGreetingForFeet(distance)
 
-if scuberGreetingForFeet(distance <= 400) {
+if (distance <= 400) {
   scuberGreetingForFeet() = 'This one is on me!'
 } else if (distance > 2000 && distance <= 2500) {
   scuberGreetingForFeet() = 'I will gladly take your third bucks.'
