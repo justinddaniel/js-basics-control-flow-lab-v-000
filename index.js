@@ -1,5 +1,4 @@
 // Write your code in this file!
-let distance
 
 function scuberGreetingForFeet(distance) {
   if (distance <= 400) {
@@ -10,4 +9,3 @@ function scuberGreetingForFeet(distance) {
     return = 'No can do.'
   }
 }
-
